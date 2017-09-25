@@ -1,0 +1,28 @@
+{
+    "job": [
+            {
+            "jobTitle":"Volunteer Coordinator",
+            "address":"Multiple Locations - Dallas, TX",
+            "salary":"$36,619.44 - $71,554.08",
+            "requirement":"Effective oral and written communication skills. MS Office or similar software skills. Strong presentation skills and community engagement abilities. Effective program management knowledge to include budgeting, donations management, and purchasing process. Coordinates adoption events and outreach opportunities both on and off-site."
+            },
+            {
+            "jobTitle":"Office Assistant (OA)",
+            "address":"Austin, TX",
+            "salary":"$45,413 - $59,033",
+            "requirement":"Cover Letter, optional. College Transcript(s), if qualifying based on education. Veterans' Preference documentation, if applicable (e.g., DD-214 Member Copy 4 showing type of discharge/character of service, SF-15 Form and related documentation, VA letter, etc.)"
+            },
+            {
+            "jobTitle":"Title Closing Specialist",
+            "address":"Davidson County, Nashville, TN",
+            "salary":"$45,413 - $59,033",
+            "requirement":"Implement projects and track their progress in Basecamp project management (PM) software. Create and adjust project schedules. Manage project communications internally between all departments. Attend weekly production status meetings. Find solutions for obstacles as they arise. Close jobs"
+            },
+            {
+            "jobTitle":"Real Estate Specialist",
+            "address":"United States-FL-Jacksonville",
+            "salary":"$36,619.44 - $71,554.08",
+            "requirement":"High School Diploma/GED.3 or more years of experience in Real Estate as an abstractor, in engineering, surveying or other related field"
+            }
+            ]
+}
